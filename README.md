@@ -9,6 +9,8 @@ NOTE: i couldn't make a version where you can choose your car
 
 ## installation
 download either of the brick folders, and put it in /Documents/NFS Most Wanted
+
 for the alt version folder, don't forget to rename it and leave just the 'brick'
 
-contact: rau.pierogi @ discord
+## contact me
+rau.pierogi @ discord
